@@ -46,3 +46,6 @@ Feel free to reach out if you want to discuss coding, share project ideas, or co
 - **LinkedIn**: [Katelyn Pfundstein](www.linkedin.com/in/katelyn-pfundstein-153a92331)
 
 Thank you for visiting my GitHub profile! 🚀
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpfud&layout=compact&theme=radical&langs_count=6)
+
