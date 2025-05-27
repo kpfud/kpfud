@@ -13,18 +13,18 @@ Welcome to my GitHub! I'm a passionate developer with a diverse skill set in pro
 ## 🧑‍💻 Projects
 
 ### Web Development
-- **[consoliDev](https://github.com/KatelynPfundstein/consolidev)**: A developer toolkit web app in PHP.
-- **[Skillful Sounds Academy](https://github.com/KatelynPfundstein/skillful-sounds-academy)**: A fictional music academy website built with HTML/CSS.
+- **[consoliDev](https://github.com/kpfud/consolidev)**: A developer toolkit web app in PHP.
+- **[Skillful Sounds Academy](https://github.com/kpfud/skillful-sounds-academy)**: A fictional music academy website built with HTML/CSS.
 
 ### C++ Projects
-- **[United Relief Project](https://github.com/KatelynPfundstein/united-relief-project)**: A donation management system for a fictional charity, built in C++.
+- **[United Relief Project](https://github.com/kpfud/united-relief-project)**: A donation management system for a fictional charity, built in C++.
 
 ### C# Projects
-- **[Rabbit Eating Carrots](https://github.com/KatelynPfundstein/rabbit-eating-carrots)**: A C# implementation of the rabbit-carrot problem based on a classic interview question.
-- **[Let's Make a Deal](https://github.com/KatelynPfundstein/lets-make-a-deal)**: A simulation of the Monty Hall problem with a GUI.
+- **[Rabbit Eating Carrots](https://github.com/kpfud/rabbit-eating-carrots)**: A C# implementation of the rabbit-carrot problem based on a classic interview question.
+- **[Let's Make a Deal](https://github.com/kpfud/lets-make-a-deal)**: A simulation of the Monty Hall problem with a GUI.
 
 ### Python Projects
-- **[Prayer Counter Web App](https://github.com/KatelynPfundstein/python-prayer-counter)**: A Flask app that integrates with Dropbox to track prayer counts in real-time.
+- **[Prayer Counter Web App](https://github.com/kpfud/python-prayer-counter)**: A Flask app that integrates with Dropbox to track prayer counts in real-time.
 
 ## 📚 Current Learning Goals
 
